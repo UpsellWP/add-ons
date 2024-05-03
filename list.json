@@ -1,6 +1,7 @@
 {
   "mini-cart": {
     "name": "Mini-cart",
+    "version": "1.0.0",
     "description": "Simplified cart.",
     "icon_url": "https://cdn.jsdelivr.net/gh/upsellwp/add-ons@master/icons/mini-cart.png",
     "plugin_url": "https://www.upsellwp.com/add-ons/mini-cart",
@@ -17,6 +18,7 @@
   },
   "translation": {
     "name": "Translation",
+    "version": "1.0.0",
     "description": "Useful to sync dynamic strings.",
     "icon_url": "https://cdn.jsdelivr.net/gh/upsellwp/add-ons@master/icons/translation.png",
     "plugin_url": "https://www.upsellwp.com/add-ons/translation",
