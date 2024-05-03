@@ -2,7 +2,7 @@
   "mini-cart": {
     "name": "Mini-cart",
     "description": "Simplified cart.",
-    "icon_url": "",
+    "icon_url": "https://cdn.jsdelivr.net/gh/upsellwp/add-ons@master/icons/mini-cart.png",
     "plugin_url": "https://www.upsellwp.com/add-ons/mini-cart",
     "download_url": "",
     "plugin_file": "upsellwp-mini-cart/upsellwp-mini-cart.php",
@@ -12,6 +12,22 @@
       "wordpress": "5.3",
       "woocommerce": "4.3",
       "upsellwp-core": "2.0.2"
+    },
+    "is_pro": false
+  },
+  "translation": {
+    "name": "Translation",
+    "description": "Useful to sync dynamic strings.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/upsellwp/add-ons@master/icons/translation.png",
+    "plugin_url": "https://www.upsellwp.com/add-ons/translation",
+    "download_url": "",
+    "plugin_file": "upsellwp-translation/upsellwp-translation.php",
+    "page_url": "",
+    "settings_url": "",
+    "requires": {
+      "wordpress": "5.3",
+      "woocommerce": "4.3",
+      "upsellwp-core": "2.0.0"
     },
     "is_pro": false
   }
