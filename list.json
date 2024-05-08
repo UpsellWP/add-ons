@@ -8,7 +8,7 @@
     "plugin_url": "https://upsellwp.com/add-ons/mini-cart",
     "download_url": "",
     "plugin_file": "upsellwp-mini-cart/upsellwp-mini-cart.php",
-    "page_url": "{admin_url}?page=upsellwp-mini-cart",
+    "page_url": "{admin_url}admin.php?page=upsellwp-mini-cart",
     "settings_url": "",
     "requires": {
       "wordpress": "5.3",
