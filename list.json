@@ -1,10 +1,11 @@
 {
   "mini-cart": {
     "name": "Mini-cart",
+    "author": "UpsellWP",
     "version": "1.0.0",
     "description": "Simplified cart.",
     "icon_url": "https://cdn.jsdelivr.net/gh/upsellwp/add-ons@master/icons/mini-cart.png",
-    "plugin_url": "https://www.upsellwp.com/add-ons/mini-cart",
+    "plugin_url": "https://upsellwp.com/add-ons/mini-cart",
     "download_url": "",
     "plugin_file": "upsellwp-mini-cart/upsellwp-mini-cart.php",
     "page_url": "{admin_url}?page=upsellwp-mini-cart",
@@ -18,10 +19,11 @@
   },
   "translation": {
     "name": "Translation",
+    "author": "UpsellWP",
     "version": "1.0.0",
     "description": "Useful to sync dynamic strings.",
     "icon_url": "https://cdn.jsdelivr.net/gh/upsellwp/add-ons@master/icons/translation.png",
-    "plugin_url": "https://www.upsellwp.com/add-ons/translation",
+    "plugin_url": "https://upsellwp.com/add-ons/translation",
     "download_url": "",
     "plugin_file": "upsellwp-translation/upsellwp-translation.php",
     "page_url": "",
