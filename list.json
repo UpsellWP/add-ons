@@ -13,7 +13,7 @@
     "requires": {
       "wordpress": "5.3",
       "woocommerce": "4.3",
-      "upsellwp-core": "2.0.2"
+      "upsellwp-core": "2.0.0"
     },
     "is_pro": false
   },
@@ -21,7 +21,7 @@
     "name": "Translation",
     "author": "UpsellWP",
     "version": "1.0.0",
-    "description": "Useful to sync dynamic strings.",
+    "description": "Useful to sync dynamic strings. Supported plugins: WPML and Loco Translate.",
     "icon_url": "https://cdn.jsdelivr.net/gh/upsellwp/add-ons@master/icons/translation.png",
     "plugin_url": "https://upsellwp.com/add-ons/translation",
     "download_url": "",
@@ -32,6 +32,24 @@
       "wordpress": "5.3",
       "woocommerce": "4.3",
       "upsellwp-core": "2.0.0"
+    },
+    "is_pro": false
+  },
+  "custom_taxonomy": {
+    "name": "Custom Taxonomy",
+    "author": "UpsellWP",
+    "version": "1.0.0",
+    "description": "Useful to load custom product taxonomy filters and conditions.",
+    "icon_url": "https://cdn.jsdelivr.net/gh/upsellwp/add-ons@master/icons/custom-taxonomy.png",
+    "plugin_url": "https://upsellwp.com/add-ons/custom-taxonomy",
+    "download_url": "",
+    "plugin_file": "upsellwp-custom-taxonomy/upsellwp-custom-taxonomy.php",
+    "page_url": "",
+    "settings_url": "",
+    "requires": {
+      "wordpress": "5.3",
+      "woocommerce": "4.3",
+      "upsellwp-pro": "2.0.0"
     },
     "is_pro": false
   }
