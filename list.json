@@ -49,7 +49,7 @@
     "requires": {
       "wordpress": "5.3",
       "woocommerce": "4.3",
-      "upsellwp-pro": "2.1"
+      "upsellwp_pro": "2.1"
     },
     "is_pro": false
   }
