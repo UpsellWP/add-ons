@@ -11,6 +11,7 @@
     "page_url": "{admin_url}admin.php?page=upsellwp-mini-cart",
     "settings_url": "",
     "requires": {
+      "php": "7.2",
       "wordpress": "5.3",
       "woocommerce": "4.3",
       "upsellwp": "2.1"
@@ -29,6 +30,7 @@
     "page_url": "",
     "settings_url": "",
     "requires": {
+      "php": "7.0",
       "wordpress": "5.3",
       "woocommerce": "4.3",
       "upsellwp": "2.1"
@@ -47,6 +49,7 @@
     "page_url": "",
     "settings_url": "",
     "requires": {
+      "php": "7.0",
       "wordpress": "5.3",
       "woocommerce": "4.3",
       "upsellwp_pro": "2.1"
