@@ -14,10 +14,30 @@
     "requires": {
       "php": "7.2",
       "wordpress": "5.3",
-      "woocommerce": "4.3",
+      "woocommerce": "4.4",
       "upsellwp": "2.1"
     },
     "is_pro": false
+  },
+  "buy_more_save_more": {
+    "name": "Buy More Save More",
+    "author": "UpsellWP",
+    "version": "1.0.0",
+    "description": "Encourage your customers to buy more and save big with bulk purchase discounts.",
+    "icon_url": "",
+    "plugin_url": "https://upsellwp.com/add-ons/buy-more-save-more/",
+    "download_url": "",
+    "plugin_file": "upsellwp-buy-more-save-more/upsellwp-buy-more-save-more.php",
+    "page_url": "{admin_url}admin.php?page=checkout-upsell-woocommerce&tab=campaigns",
+    "settings_url": "{admin_url}admin.php?page=checkout-upsell-woocommerce&tab=settings",
+    "wordpress_url": "",
+    "requires": {
+      "php": "7.0",
+      "wordpress": "5.3",
+      "woocommerce": "4.4",
+      "upsellwp_pro": "2.1.5"
+    },
+    "is_pro": true
   },
   "translation": {
     "name": "Translation",
@@ -34,7 +54,7 @@
     "requires": {
       "php": "7.0",
       "wordpress": "5.3",
-      "woocommerce": "4.3",
+      "woocommerce": "4.4",
       "upsellwp": "2.1"
     },
     "is_pro": false
@@ -54,7 +74,7 @@
     "requires": {
       "php": "7.0",
       "wordpress": "5.3",
-      "woocommerce": "4.3",
+      "woocommerce": "4.4",
       "upsellwp_pro": "2.1"
     },
     "is_pro": false
