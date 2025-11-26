@@ -20,9 +20,9 @@
     "is_pro": false
   },
   "buy_more_save_more": {
-    "name": "Buy More Save More",
+    "name": "Bundles for UpsellWP",
     "author": "UpsellWP",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Encourage your customers to buy more and save big with bulk purchase discounts.",
     "icon_url": "https://static.flycart.net/upsellwp/image/add-ons/upsellwp-buy-more-save-more/upsellwp-buy-more-save-more.png",
     "plugin_url": "https://upsellwp.com/add-ons/buy-more-save-more/",
